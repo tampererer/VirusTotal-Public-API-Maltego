@@ -6,11 +6,11 @@ import random
 
 apiurl = "https://www.virustotal.com/vtapi/v2/"
 apikey = [
-        "<Your API Key #1>", 
-        "<Your API Key #2>", 
-        "<Your API Key #3>", 
-        "<Your API Key #4>", 
-        "<Your API Key #5>"
+        "<Your API Key>", 
+        "<Your API Key>", 
+        "<Your API Key>", 
+        "<Your API Key>", 
+        "<Your API Key>"
         ]
 apikey = random.choice(apikey)
 
