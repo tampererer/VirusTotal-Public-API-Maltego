@@ -30,11 +30,18 @@ Maltego Local Transform to use VirusTotal Public API - https://www.virustotal.co
   Working directory = C:\Maltego\Transforms\VirusTotal_Public
 
 # Transforms
-- domain_reports
-- ip_reports
-- url_reports
-- file_reports
-- file_rescan
-- url_scan
-- md5
-- sha256
+- [VTPub] domain_reports
+![vtpub-domain](https://user-images.githubusercontent.com/16297449/42553876-9d874676-851d-11e8-96dc-7310af19c0c3.png)
+- [VTPub] ip_reports
+![vtpub-ip](https://user-images.githubusercontent.com/16297449/42553927-e4149f58-851d-11e8-8da9-b9f016fca3ba.png)
+- [VTPub] url_reports
+
+- [VTPub] file_reports
+
+- [VTPub] file_rescan
+
+- [VTPub] url_scan
+
+- [VTPub] md5
+
+- [VTPub] sha256
