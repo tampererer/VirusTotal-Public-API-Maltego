@@ -31,18 +31,18 @@ Maltego Local Transform to use VirusTotal Public API - https://www.virustotal.co
 
 # Transforms
 - [VTPub] domain_reports
-![vtpub-domain](https://user-images.githubusercontent.com/16297449/42553876-9d874676-851d-11e8-96dc-7310af19c0c3.png)
+<img src="https://user-images.githubusercontent.com/16297449/42553876-9d874676-851d-11e8-96dc-7310af19c0c3.png" width="300">
 - [VTPub] ip_reports
-![vtpub-ip](https://user-images.githubusercontent.com/16297449/42553927-e4149f58-851d-11e8-8da9-b9f016fca3ba.png)
+<img src="https://user-images.githubusercontent.com/16297449/42553927-e4149f58-851d-11e8-8da9-b9f016fca3ba.png" width="300">
 - [VTPub] url_reports
-![vtpub-url](https://user-images.githubusercontent.com/16297449/42554036-45812b76-851e-11e8-9433-0f6752fbb09e.png)
+<img src="https://user-images.githubusercontent.com/16297449/42554036-45812b76-851e-11e8-9433-0f6752fbb09e.png" width="300">
 - [VTPub] file_reports
-![vtpub-file](https://user-images.githubusercontent.com/16297449/42554097-806b25fc-851e-11e8-8a4b-f55c5d21afbc.png)
+<img src="https://user-images.githubusercontent.com/16297449/42554097-806b25fc-851e-11e8-8a4b-f55c5d21afbc.png" width="300">
 - [VTPub] file_rescan
-![vtpub-filerescan](https://user-images.githubusercontent.com/16297449/42554137-a5f3b62c-851e-11e8-92f9-fd78897d12b5.png)
+<img src="https://user-images.githubusercontent.com/16297449/42554137-a5f3b62c-851e-11e8-92f9-fd78897d12b5.png" width="300">
 - [VTPub] url_scan
-![vtpub-urlscan](https://user-images.githubusercontent.com/16297449/42554170-d013c74e-851e-11e8-9878-0bda03af6816.png)
+<img src="https://user-images.githubusercontent.com/16297449/42554170-d013c74e-851e-11e8-9878-0bda03af6816.png" width="300">
 - [VTPub] md5
-![vtpub-md5](https://user-images.githubusercontent.com/16297449/42554224-053c3bd6-851f-11e8-8852-41462cf24621.png)
+<img src="https://user-images.githubusercontent.com/16297449/42554224-053c3bd6-851f-11e8-8852-41462cf24621.png" width="300">
 - [VTPub] sha256
-![vtpub-sha256](https://user-images.githubusercontent.com/16297449/42554238-0e2a422e-851f-11e8-8785-62640ad7e845.png)
+<img src="https://user-images.githubusercontent.com/16297449/42554238-0e2a422e-851f-11e8-8785-62640ad7e845.png" width="300">
