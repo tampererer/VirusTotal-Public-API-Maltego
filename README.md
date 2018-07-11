@@ -33,7 +33,7 @@ Maltego Local Transform to use VirusTotal Public API - https://www.virustotal.co
 - [VTPub] domain_reports  
 Input: Domain  
 Output: Sub domains, Detected communicationg hashes, Detected downloaded hashes, Detected URLs, IP addresses, Categories  
-<img src="https://user-images.githubusercontent.com/16297449/42553876-9d874676-851d-11e8-96dc-7310af19c0c3.png" width="1500">
+<img src="https://user-images.githubusercontent.com/16297449/42561148-73596bb6-8533-11e8-8317-9597649dbb7b.png" width="1500">
 
 - [VTPub] ip_reports  
 Input: IP address  
