@@ -22,7 +22,7 @@ Maltego Local Transform to use VirusTotal Public API - https://www.virustotal.co
 
 # セットアップ
 - VTPub.py の中で、\<Your API Key\> の箇所に自分の API key を記載してください。複数の API key を持っている場合は、クォータを増やすために複数記載することもできます。
-- VTPub.py と MaltegoTransform.py を、このTransform用に作ったディレクトリに置いてください。（例： C:\Maltego\Transforms\VirusTotal_Public）
+- 全てのPythonファイルを、このTransform用に作ったディレクトリに置いてください。（例： C:\Maltego\Transforms\VirusTotal_Public）
 - VTPub.mtz を開いて、Maltegoの設定をインポートしてください。
 - mtzファイルに含まれる設定では、下記のディレクトリが指定されていますが、自分の環境に合わせて変更してください。（Maltego -> Transforms -> Transform Manager）
 
