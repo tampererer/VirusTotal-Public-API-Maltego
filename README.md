@@ -31,13 +31,13 @@ Maltego Local Transform to use VirusTotal Public API - https://www.virustotal.co
 
 # Transforms
 - [VTPub] domain_reports
-<img src="https://user-images.githubusercontent.com/16297449/42553876-9d874676-851d-11e8-96dc-7310af19c0c3.png" width="300">
+<img src="https://user-images.githubusercontent.com/16297449/42553876-9d874676-851d-11e8-96dc-7310af19c0c3.png" width="1000">
 - [VTPub] ip_reports
-<img src="https://user-images.githubusercontent.com/16297449/42553927-e4149f58-851d-11e8-8da9-b9f016fca3ba.png" width="300">
+<img src="https://user-images.githubusercontent.com/16297449/42553927-e4149f58-851d-11e8-8da9-b9f016fca3ba.png" width="1000">
 - [VTPub] url_reports
 <img src="https://user-images.githubusercontent.com/16297449/42554036-45812b76-851e-11e8-9433-0f6752fbb09e.png" width="300">
 - [VTPub] file_reports
-<img src="https://user-images.githubusercontent.com/16297449/42554097-806b25fc-851e-11e8-8a4b-f55c5d21afbc.png" width="300">
+<img src="https://user-images.githubusercontent.com/16297449/42554097-806b25fc-851e-11e8-8a4b-f55c5d21afbc.png" width="600">
 - [VTPub] file_rescan
 <img src="https://user-images.githubusercontent.com/16297449/42554137-a5f3b62c-851e-11e8-92f9-fd78897d12b5.png" width="300">
 - [VTPub] url_scan
