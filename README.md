@@ -12,7 +12,7 @@ Maltego Local Transform to use VirusTotal Public API - https://www.virustotal.co
 - Python 3.6.x でもたぶん動作します。
 
 # Setup
-- Edit VTPub.py and set "apikey" variable with your API key.  
+- Edit VTPub.py and set "apikey" variable with your API key. If you have multiple API keys, you can set them to increase quota.  
 - Put all python files into your working directory. (e.g. C:\Maltego\Transforms\VirusTotal_Public)  
 - Open VTPub.mtz to import Maltego configuration.  
 - The current configuration uses the following directories, so you may have to change them according to your environment. (Maltego -> Transforms -> Transform Manager)  
