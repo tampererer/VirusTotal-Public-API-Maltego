@@ -2,12 +2,12 @@
 Maltego Local Transform to use VirusTotal Public API - https://www.virustotal.com/en/documentation/public-api/
 
 # Prerequisites
-- VirusTotal Private API access
+- VirusTotal Public API access
 - Python 2.7.x + requests, json, random module
 - Python 3.6.x will probably work.
 
 # 必要なもの
-- VirusTotal Private APIのアクセス権
+- VirusTotal Public APIのアクセス権
 - Python 2.7.x + requests, json, random モジュール
 - Python 3.6.x でもたぶん動作します。
 
